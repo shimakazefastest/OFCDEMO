@@ -1,0 +1,9 @@
+//package com.us.drools; 
+//import com.us.drools.bean.Message; 
+//rule "Hello World " 
+//when 
+//	$message:Message (status == "0") 
+//then 
+//	$message.setContent("hello, world1 !");   
+//	System.out.println("hello, world2  !"); 
+//end
